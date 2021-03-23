@@ -1,0 +1,1578 @@
+#EXTM3U
+#PLAYLIST:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Premium IPTV & ZalTV",Long term IPTV & ZalTV special offer
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Sport(100)",Long term Sport IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport(100)",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport(100)",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport(100)",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",ART SPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81918?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",ART SPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81917?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 2 4K
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81943?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81944?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 3 4K
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81941?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 4 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81940?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 5 4K
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81937?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",SUPER SPORT 7 4K
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81933?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport(100)",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport(100)",Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport(100)",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",Espn 1 HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1095?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",Espn 2 HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1096?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",Espn Brasil SD
+http://latinoamericatv.vip:3334/Yan/Yan123/1098?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",Fox SPorts 2 HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1100?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",Fox SPorts HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1102?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",SPORTSNET PACIFIC
+http://37723998.to:2052/dale1/1234/21725?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport(100)",SPORTV 3  HD
+http://37723998.to:2052/dale1/1234/24771?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport(100)",CCTV-5体育HD,CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Sport(100)",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Sport(100)",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport(100)",SPORTSNET 360
+http://37723998.to:2052/joe1/joe2/21719?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",ARENA SPORT 1 HD (SR)
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/85187?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",ARENA SPORT 3 HD (HR)
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/85181?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",ARENA SPORT 4 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/49319?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",EUROSPORT 1
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/632?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",EUROSPORT 2
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/633?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",Eurosport 1 HD
+http://latinoamericatv.vip:3334/Yan/Yan123/17718?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",M GOLF
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/311?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",M. DEPORTES 1 HD
+http://latinoamericatv.vip:3334/Yan/Yan123/17743?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport(100)",PLANETSPORT 3
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/85172?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Sport(100)",Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sport(100)",Auto Motor Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport(100)",BBL SPORT 3 SPIELTAG
+http://152.89.62.111:8080/m123/m123/146566?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="Sport(100)",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport(100)",SKY SPORT 1 FHD
+http://152.89.62.111:8080/m123/m123/146380?checkedby:zaltv.co
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport(100)",BEIN SPORT 1HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/155?checkedby:zaltv.co
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport(100)",BEIN SPORT 2HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/154?checkedby:zaltv.co
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport(100)",EUROSPORT1 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1952?checkedby:zaltv.co
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport(100)",EUROSPORT2 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1953?checkedby:zaltv.co
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport(100)",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:zaltv.co
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport(100)",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Cosmote Sport 2
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31213?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Cosmote Sport 3
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31212?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Cosmote Sport 4
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31211?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",ERT SPORTS WORLDWIDE
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31164?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Eurosport 1
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31216?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Eurosport 2
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31215?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Fox Sport
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/52128?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport(100)",Nova Sport 5
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31218?checkedby:zaltv.co
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport(100)",New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Sport(100)",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport(100)",AL KASS 1 (1024×576),Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport(100)",AL KASS 2 (1024×576),Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport(100)",AL KASS 3 (1024×576),Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport(100)",AL KASS 5 (1024×576),Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport(100)",DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sport(100)",DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport(100)",DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport(100)",SHARJA SPORTS (1920×1080),Sharjah Sports,SPORT : Sharjah Sports,SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",(IT)  SKY SPORT NBA HD
+http://152.89.62.111:8080/m123/m123/147403?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",(IT) DAZN SPORT 2
+http://152.89.62.111:8080/m123/m123/147453?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BEIN SPORTS Ñ (OP)
+http://latinoamericatv.vip:3334/Kaka/Kaka/174?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BEIN SPORTS Ñ. HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/173?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BR. BAND SPORTS HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/1104?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BR. SPORTV 2 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1107?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BR. SPORTV 3 HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1109?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",BR. SPORTV HD BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/1105?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",CLARO SPORT
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/86931?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",Claro Sports
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/58034?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/928?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/979?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_ARG
+http://latinoamericatv.vip:3334/Kaka/Kaka/981?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_BR
+http://latinoamericatv.vip:3334/Kaka/Kaka/957?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_CL
+http://latinoamericatv.vip:3334/Kaka/Kaka/923?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_COL
+http://latinoamericatv.vip:3334/Kaka/Kaka/983?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_ESP
+http://latinoamericatv.vip:3334/Kaka/Kaka/922?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/919?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/925?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/948?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_LAT
+http://latinoamericatv.vip:3334/Kaka/Kaka/958?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/953?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/956?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DEP_MX
+http://latinoamericatv.vip:3334/Kaka/Kaka/960?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS
+http://latinoamericatv.vip:3334/Kaka/Kaka/314?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 1  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/65?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 1  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/64?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 1  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/63?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 2  FHD
+http://latinoamericatv.vip:3334/Kaka/Kaka/62?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 2  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/61?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS 2  SD
+http://latinoamericatv.vip:3334/Kaka/Kaka/60?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport(100)",DIRECTV SPORTS AR  HD
+http://latinoamericatv.vip:3334/Kaka/Kaka/58?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Africa(8)",Long term Africa IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Africa(8)",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Africa(8)",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Africa(8)",BOSS BROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Africa(8)",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Africa(8)",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Africa(8)",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="TN" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Africa(8)",Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Africa(8)",Vision 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Scandinavia(100)",Long term Scandinavia IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="Scandinavia(100)",---- SENDER FINNLAND ----,YLE TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="IS" tvg-logo="" group-title="Scandinavia(100)",---- SENDER ISLAND ----,KVF Faroe Island
+https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",24 Krim
+http://mini-main.site:8080/i3/LyKP9AmYws/1326?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",3ABN Russia
+http://mini-main.site:8080/i3/LyKP9AmYws/788?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",ANIMAL PLANET FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12394?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",ANIMAL PLANET HD
+http://rv.imax.re:80/2773394744/2331282131/79739?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",AT 5
+http://rv.imax.re:80/2773394744/2331282131/79714?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",ATG
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51487?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/LsAz0UW.jpg" group-title="Scandinavia(100)",Aftonbladet TV,SE | Aftonbladet TV
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Animal Planet HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51466?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Astrakhan 24
+http://mini-main.site:8080/i3/LyKP9AmYws/1328?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",BBC Earth HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12397?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",BBC FIRST HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79696?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",BOOMERANG
+http://rv.imax.re:80/2773394744/2331282131/79631?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More FOTBALL HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12402?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More First HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12401?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More GOLF FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/12403?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Golf FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51548?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Golf HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51508?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Hits
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51545?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Hockey HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51509?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Live 4 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51514?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Live 5
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51526?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Live HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51460?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Series FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51543?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Series HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51516?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Sport FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51512?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",C More Sport HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51513?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",COMEDY CENTRAL EXTRA HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1144?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",COMEDY CENTRAL HD
+http://rv.imax.re:80/2773394744/2331282131/79795?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Comedy Central
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51542?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DANCE TRIPPIN HD
+http://rv.imax.re:80/2773394744/2331282131/79771?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY  SCIENCE
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1094?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY CHANNEL HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1096?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51472?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY HD
+http://rv.imax.re:80/2773394744/2331282131/79738?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY HD
+http://rv.imax.re:80/2773394744/2331282131/79533?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY ID HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79735?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY SCIENCE HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79531?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY WORLD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79737?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY WORLD
+http://rv.imax.re:80/2773394744/2331282131/79737?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISCOVERY WORLD
+http://rv.imax.re:80/2773394744/2331282131/79532?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",DISNEY CHANNEL HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79786?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Di TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31564?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Discovery World
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51471?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Disney Channel
+http://live.iptv-ksa.com:80/yunis2/yunis2/208802?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Disney Channel
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51540?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Disney Channel NOR
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51511?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Disney Junior
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51478?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",E! ENTERTAINMENT
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1146?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",E! HD
+http://rv.imax.re:80/2773394744/2331282131/79748?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",EUROSPORT 1 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51483?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",EUROSPORT 2 HD
+http://rv.imax.re:80/2773394744/2331282131/79511?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Euronews Russian
+http://mini-main.site:8080/i3/LyKP9AmYws/390?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Expressen TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31563?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/50B8mhG.png" group-title="Scandinavia(100)",Expressen TV,SE | Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FASHION TV HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79746?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FILM 1 PREMIERE HD
+http://rv.imax.re:80/2773394744/2331282131/79569?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FILM1 ACTION HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79760?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FILM1 ACTION HD
+http://rv.imax.re:80/2773394744/2331282131/79760?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FILM1 FAMILY HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79758?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FILM1 PREMIERE HD
+http://rv.imax.re:80/2773394744/2331282131/79761?checkedby:zaltv.co
+#EXTINF:0 tvg-country="FO" tvg-logo="https://i.imgur.com/srXY7yg.png" group-title="Scandinavia(100)",FO | KVF,KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79731?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 1 HD
+http://rv.imax.re:80/2773394744/2331282131/79731?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 1 HD
+http://rv.imax.re:80/2773394744/2331282131/79526?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 3 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79524?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 3 HD
+http://rv.imax.re:80/2773394744/2331282131/79729?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 4 HD
+http://rv.imax.re:80/2773394744/2331282131/79728?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 5 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79727?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 5 HD
+http://rv.imax.re:80/2773394744/2331282131/79727?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 6 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79726?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",FOX SPORTS 6 HD
+http://rv.imax.re:80/2773394744/2331282131/79726?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",Frikanalen
+https://frikanalen.no/stream/stream_1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Futbol 2
+http://live.iptv-ksa.com:80/yunis2/yunis2/208808?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",HBO 2
+http://rv.imax.re:80/2773394744/2331282131/79563?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",HBO2
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79754?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",HISTORY HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79734?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",HISTORY HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/208800?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/pW6pPFF.jpg" group-title="Scandinavia(100)",Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Investigation Discovery SE
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51464?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Scandinavia(100)",KETNET
+http://rv.imax.re:80/2773394744/2331282131/79635?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kanal 10
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51505?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/p5ktCEA.jpg" group-title="Scandinavia(100)",Kanal 10
+https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/PWNNpB6.png" group-title="Scandinavia(100)",Kanal 10 Norge,NO | Kanal 10 Norge
+http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/XZHqsMw.png" group-title="Scandinavia(100)",Kanal 10 Norge
+https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kanal 11
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51482?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kanal 5
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51538?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kanal 9
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51565?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Katun 24
+http://mini-main.site:8080/i3/LyKP9AmYws/793?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kazakhstan - Novoe TV
+http://mini-main.site:8080/i3/LyKP9AmYws/2074?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kino Home HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/208817?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kino TV HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/208819?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Krasnaya Liniya
+http://mini-main.site:8080/i3/LyKP9AmYws/1332?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Krik TV
+http://mini-main.site:8080/i3/LyKP9AmYws/1333?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kunskapskanalen
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51537?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Kurai TV
+http://mini-main.site:8080/i3/LyKP9AmYws/1334?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Len TV 24
+http://mini-main.site:8080/i3/LyKP9AmYws/1336?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",Lipetskoye Vremya
+http://mini-main.site:8080/i3/LyKP9AmYws/1338?checkedby:zaltv.co
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Scandinavia(100)",MTV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/51467?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Afghanistan(31)",Long term Afghanistan IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(31)",AF | Ariana News,Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(31)",AF | Ariana TV,Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(31)",AF | Ariana TV US,Ariana TV US
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(31)",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(31)",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(31)",Ariana TV,Ariana TV USA
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(31)",Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(31)",Ariana TV
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(31)",Ariana TV Int'l
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(31)",Ariana TV National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Kalemeh TV
+http://184.75.208.98:1935/live/kalemeh/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Afghanistan(31)",Kayhan TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Kayhan TV
+http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Mihan TV
+http://iptv.mihantv.com/live/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Mohabat TV
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Persian Bazar
+http://stream.persiantv1.com/ptv1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Shabakeh 7
+http://rtmp.abnsat.com/hls/txministry.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",Shamshad
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",ATN USA
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Ariana Afghan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Dubai One (English)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Ganje Hozoor
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Iman TV
+https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Afghanistan(31)",group-title"AFGHANISTAN",Iran International
+https://live.playstop.me/1816184091/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Albania(19)",Long term Albania IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Albania(19)",AL | Ora News,Ora News
+https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albania(19)",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Albania(19)",Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Albania(19)",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Albania(19)",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Albania(19)",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Albania(19)",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH 1
+https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH 2
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH 2
+https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH 24
+https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH 3
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH ARGO
+https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH Femije
+https://tvlive.rtsh.dev/live/rtsh_femije_ott_p2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH Muzike
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Albania(19)",RTSH Shqip
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Albania(19)",TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albania(19)",Zjarr TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Algeria(7)",Long term Algeria IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Algeria(7)",AL HAYAT rtm
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Algeria(7)",AR-الوطن,AR:Watan TV,Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="Algeria(7)",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Algeria(7)",DIJAH  rtm
+rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Algeria(7)",Dijlah TV  jordan rtm
+rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Algeria(7)",EL nahar Alg,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Algeria(7)",Nogoum FM TV  rtm
+rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Argentina(51)",Long term Argentina IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="Argentina(51)",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="Argentina(51)",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Argentina(51)",24/7 Canal de Noticias,CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Argentina(51)",5RTV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Argentina(51)",5RTV Santa Fe
+http://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Argentina(51)",5RTV Santa Fe
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Argentina(51)",5RTV Santa Fe
+https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR;US" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Argentina(51)",5TV Corrientes,AR | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",AL Jazeera Arabic Live,AR:AL Jazeera Arabic Live
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",AL Jazeera Mubashe,AR:AL Jazeera Mubashe
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Argentina(51)",AR | Fenix TV,Fenix TV
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Argentina(51)",AR | Net TV,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",AR:TRT Arabic,TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="Argentina(51)",Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina(51)",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina(51)",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina(51)",CPEtv
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="Argentina(51)",Canal 17 Milenium Salta
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="Argentina(51)",Canal 26
+http://200.115.193.177/live/26hd-180/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png" group-title="Argentina(51)",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Argentina(51)",Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Canal 26
+https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Argentina(51)",Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina(51)",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/pRbp0eZ.png" group-title="Argentina(51)",LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Argentina(51)",Music Top
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Argentina(51)",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Argentina(51)",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Argentina(51)",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Argentina(51)",TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Argentina(51)",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Argentina(51)",TLX
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="Argentina(51)",TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="Argentina(51)",TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina(51)",Telemax
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Argentina(51)",Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Argentina(51)",Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Australia(16)",Long term Australia IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia(16)",ABC AU
+https://c.mjh.nz/101002210221/?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Australia(16)",ABC Kids
+https://c.mjh.nz/101002210222/?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/wIdfcUx.png" group-title="Australia(16)",ABC Me
+https://c.mjh.nz/101002210224/?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Australia(16)",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Australia(16)",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="Australia(16)",Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="Australia(16)",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="Australia(16)",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Australia(16)",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Australia(16)",Expo Channel
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Australia(16)",MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="Australia(16)",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="Australia(16)",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="Australia(16)",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/hgwckSr.png" group-title="Australia(16)",Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Australia(16)",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Austria(22)",Long term Austria IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Austria(22)",AT | M4,M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/ZnerSaA.png" group-title="Austria(22)",Austria 24 (Opt-1)
+rtmp://streaming.austria24.tv/live/stream_360p?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/ZnerSaA.png" group-title="Austria(22)",Austria 24 (Opt-2)
+rtmp://streaming.austria24.tv/live/mp4:stream_720p?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/SK9IQ1Z.png" group-title="Austria(22)",Dorf TV
+https://stream.openplayout.org/hls/dorf.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/HSRpYUl.jpg" group-title="Austria(22)",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Austria(22)",Hitradio Ö3
+http://185.85.28.19/oe3sd/orf.sdp/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="Austria(22)",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT;DE" tvg-logo="" group-title="Austria(22)",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="Austria(22)",KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="Austria(22)",KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT;RU" tvg-logo="" group-title="Austria(22)",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/g2Hdysr.jpg" group-title="Austria(22)",L�ndle Tv
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Austria(22)",M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="Austria(22)",P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Austria(22)",R9 TV
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://image.schautv.at/images/cfs_616w/3123676/schautv_homepagebanner_twitter.png" group-title="Austria(22)",SchauTV
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101&checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Austria(22)",Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Austria(22)",Teins TV
+https://live1.markenfunk.com/t1/live/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Austria(22)",Uppera Balkan
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png" group-title="Austria(22)",W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT;DE" tvg-logo="" group-title="Austria(22)",oe24 TV,oe24.TV
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Austria(22)",oe24.TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Azerbaijan(100)",Long term Azerbaijan IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",24 KITCHEN
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81974?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",2x2
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ALSAT M
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82175?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ALSAT M HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82176?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" group-title="Azerbaijan(100)",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="Azerbaijan(100)",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ART CHANNEL HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82118?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Azerbaijan(100)",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Azerbaijan(100)",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Azerbaijan(100)",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Azerbaijan(100)",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Alb Horror HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30518?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Amedia 1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Amedia 2
+http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Amedia Hit
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Az News TV
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w750686581_b1364000_sltur.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Azstar TV
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",BRIDGE TV
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Cufo HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30483?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Da Vinci Learning
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Disney
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",EURO FILM 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82070?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",EXPLORER SHKENCE
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81991?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",FASHION TV
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",FILM NJE HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82085?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",FOX CHANNEL
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82048?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",FOX Movies
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30445?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Family HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30482?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Film Thriller HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30454?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Gulli Girl
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Günaz TV
+http://gtv.live.cdn.bitgravity.com/gtv/live/feed02?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",HD Life
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",JOLLY HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30545?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Jolly FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30436?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",KIDS BOX
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82091?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",KLAN 4K
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82183?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",KLAN KOSOVA HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82178?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",KLAN TV HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82184?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="Azerbaijan(100)",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",MTV DANCE
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",MTV HITS
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",MTV RUSSIA
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Mezzo Live
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Nickelodeon
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",NİCK JR
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",OCEAN TV
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Outdoor
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",PARAMOUNT COMEDY
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",PEACE TV
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81906?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",POWERTURK
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Paramount Channel
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Peace TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30377?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Q HUMOR HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82032?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Q KOMEDI HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82038?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Q STUPCAT HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82031?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",Quran TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30373?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azerbaijan(100)",RTG TV
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Belgium(33)",Long term Belgium IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Belgium(33)",ARB 24
+http://mini-main.site:8080/i3/LyKP9AmYws/231?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Belgium(33)",Azad TV
+http://mini-main.site:8080/i3/LyKP9AmYws/235?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Belgium(33)",BE | Notele,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Belgium(33)",BE | TV Oost,TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="Belgium(33)",BEL Radio PROS (Webradio)
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="Belgium(33)",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="Belgium(33)",Bel RTL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Belgium(33)",CBC
+http://mini-main.site:8080/i3/LyKP9AmYws/2257?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="Belgium(33)",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Belgium(33)",City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/5LtGMnF.png" group-title="Belgium(33)",EBS Europe
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_alb=96000-video=1600000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="Belgium(33)",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://www.funradio.be/wp-content/themes/rise/assets/img/funradio.png" group-title="Belgium(33)",Fun Radio (Webradio)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Belgium(33)",Ictimai TV
+http://mini-main.site:8080/i3/LyKP9AmYws/234?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="Belgium(33)",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Belgium(33)",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Belgium(33)",Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgium(33)",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgium(33)",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Belgium(33)",MA Télé
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" group-title="Belgium(33)",MNM (Webradio)
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Belgium(33)",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Belgium(33)",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Belgium(33)",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="Belgium(33)",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="Belgium(33)",RTL-TVi
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="Belgium(33)",RTL-TVi
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE;FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Belgium(33)",Radio Contact,Radio Contact Vision
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="Belgium(33)",Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Belgium(33)",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Belgium(33)",TVL
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Belgium(33)",Turan TV
+http://mini-main.site:8080/i3/LyKP9AmYws/2025?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgium(33)",XITE BE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Brazil(100)",Long term Brazil IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Brazil(100)",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Brazil(100)",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_123
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_17
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_18
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_20
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8&checkedby?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_29
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_5
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_51
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_53
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_55
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70shyfJmW0ABnluYhuJnl1vY83sUfGac--rA-9et32zJBMJVR&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_59
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1qImkGTS4tIrklxASF74RGYUl6OBaoAjrKV5R_BWCZlQcf4OH&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_60
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkIsS3-7Wmy4Kp1qDpogzH6u8bcCIanU3JurrW4DzUsGB0U1Ez&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_62
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN2I5v-LLrb32Bq74oyZcPmNixd5NrwiMEcpXLHEOPYdBphPhP&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_64
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_66
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM6B8R4WaQ3vprwns5YoQv6JTOmO2lydzZQccChQK8pPXxBy4&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_67
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRESoEe2lrbZ2PB2iaoy7X9iy-gN8_O1YQekHfGG-MiQT0dF2O5&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_68
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX31HFuXGoPHLZOGqQJIW7uOTaoaBYtMA8C6TgxsGoTnrxTfqCg&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_69
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxubfc61mrtFdMdwhaL8wzh7-mpKuu40OcrSAiuXvXlXUKfA7&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_70
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-Vf65YehC1Jjmy_CHT7878ZqFjfmkw5MSoabtbPK3YAw9qoK&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_71
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNDkEpNas5s3PtamWEXjXg3lQ-eXt4hwhH-pAsKTRrMe2mzXV&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_80
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_81
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmDKLFNlkxuVvxFht_1Jo-_03e4j35-5f7H4zIRlI6rkug4yA&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_85
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuHh-mQXPlrJFdhDXTr_hypLHNbRko2Vu9r4gL8dXVe0GI-GtJ&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_86
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNYMFmVWvKegS57UBwLD1M1T0flACJrmUyslZ0tTxIzhd7_1dN&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_87
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxhIxYpHaW_Gy-STCJvN3N-GrIVY7WqjLQIvBXpPfyhuad5dgB&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_90
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RKA4j3e8r3NQB4HBNN5VhC8ZUQ7u&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Brasil IPTV_91
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK&checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Brazil(100)",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil(100)",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="Brazil(100)",Canal Ricos
+https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="Brazil(100)",Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Brazil(100)",Canal do Boi
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="Brazil(100)",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Fashion TV
+http://mini-main.site:8080/i3/LyKP9AmYws/754?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Brazil(100)",Itú TV,ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Ketnet Junior HD
+http://mini-main.site:8080/i3/LyKP9AmYws/2034?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",LN24
+http://mini-main.site:8080/i3/LyKP9AmYws/745?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",Notélé
+http://mini-main.site:8080/i3/LyKP9AmYws/751?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brazil(100)",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Brazil(100)",Novo Tempo,Novo Tempo (Backup)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Brazil(100)",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Brazil(100)",Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Brazil(100)",RCI,TV Pai Eterno (Backup)
+http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Brazil(100)",Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Brazil(100)",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Brazil(100)",Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="Brazil(100)",Rádio Jornal
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil(100)",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Brazil(100)",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Brazil(100)",TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="Brazil(100)",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Brazil(100)",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="Brazil(100)",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",TV Cidade de Petrópolis
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Brazil(100)",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil(100)",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil(100)",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg" group-title="Brazil(100)",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Brazil(100)",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="Brazil(100)",TV Diário do Sertão,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Brazil(100)",TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",TV GIDEOES SD
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Brazil(100)",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="Brazil(100)",TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="Brazil(100)",TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Brazil(100)",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="Brazil(100)",TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Brazil(100)",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Brazil(100)",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Brazil(100)",TV Paraná,TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="Brazil(100)",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil(100)",TV Sol
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="Brazil(100)",TV União DF
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MnIvaNC.png" group-title="Brazil(100)",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="Brazil(100)",TVCI Paranaguá
+http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Brazil(100)",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="Brazil(100)",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Brazil(100)",TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Brazil(100)",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" group-title="Brazil(100)",Viva Web TV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Brazil(100)",Yeeaah!
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Bulgaria(45)",Long term Bulgaria IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",24 Kitchen
+https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",AMC
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",BG Music
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",BOX TV
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="Bulgaria(45)",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",BTV Cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",BTV Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Bulgaria(45)",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Bn Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="Bulgaria(45)",Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="Bulgaria(45)",Bulgaria On Air
+http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="Bulgaria(45)",Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Bulgaria On Air
+https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",CITY TV
+https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="Bulgaria(45)",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",DIEMA
+https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",DM SAT
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Discovery
+https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",EKIDS
+https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",ETA
+https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="Bulgaria(45)",Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",FEN TV
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Fishing & Hunting Channel
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",KINO NOVA
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",NG WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",National Geographic
+https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Nick Jr.
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",RETRO  rtm
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",RTL
+https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Ring BG
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",THE Voice
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",TLC
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Travel
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="Bulgaria(45)",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="Bulgaria(45)",Wness TV
+https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",КАНАЛ 3
+https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Канал 4
+https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Первый канал
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Планета
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",СКАТ
+https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",ТВ Европа
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Bulgaria(45)",Телевизия Враца
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Canada(94)",Long term Canada IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada(94)",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada(94)",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",A&E
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/48390?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",A&E
+http://37723998.to:2052/dale1/1234/21566?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Canada(94)",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada(94)",Amazing Discoveries TV,CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Axn SD
+http://latinoamericatv.vip:3334/Yan/Yan123/1123?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",BABY TV
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54138?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Canada(94)",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Canada(94)",CA | CPAC,CPAC,CPAC Francais
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Canada(94)",CA | Canadian Arab TV,Canadian Arab TV,Canadian Arab TV (Canada)
+http://192.226.228.32:8080/hls/catv/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="Canada(94)",CA | EMCI TV,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Canada(94)",CA | EWTN Canada,EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada(94)",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/MtSURrQ.png" group-title="Canada(94)",CA | Global Calgary,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="Canada(94)",CA | Global Edmonton,Global Edmonton
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Canada(94)",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Canada(94)",CA | Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Canada(94)",CA | IIPC TV,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada(94)",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Canada(94)",CA | NTV,NTV,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Canada(94)",CA | QVTV,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada(94)",CA | TAG TV,TAG TV,Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada(94)",CA | The Shopping Channel,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada(94)",CA | Urdu TV Toronto,Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CBC News Network
+http://37723998.to:2052/dale1/1234/21696?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CNN Brasil HD
+http://mini-main.site:8080/i3/LyKP9AmYws/322?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",COMBATE
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7789?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CP24
+http://37723998.to:2052/dale1/1234/21583?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CTV OTTAWA
+http://37723998.to:2052/dale1/1234/21821?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CTV TORONTO
+http://37723998.to:2052/dale1/1234/21823?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",CablePulse 24
+http://37723998.to:2052/dale1/1234/21695?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Canada(94)",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="Canada(94)",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Cinemax HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1124?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",DISCOVERY H&H
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54129?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",DISNEY CHANNEL
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54139?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="Canada(94)",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Canada(94)",EMCI TV Montreal (Opt-2)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Canada(94)",EWTN Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Canada(94)",EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Food Network
+http://37723998.to:2052/dale1/1234/21605?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Fx HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1125?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",GLOBO TV TRIBUNA SANTOS  HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1189?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",GLOBOSAT  HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1190?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="Canada(94)",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Globo HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1174?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Canada(94)",GurSikh Sabha TV (Scarborough)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",HBO 2
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7802?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",HBO FAMILY
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7800?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",HBO SIGNATURE
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7798?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",HGTV
+http://37723998.to:2052/dale1/1234/21616?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",HYSTORY
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54135?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Hbo HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1126?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Hbo Plus HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1127?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canada(94)",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canada(94)",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Canada(94)",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",MULTISHOW
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54133?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canada(94)",Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",NATGEO KIDS
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54141?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",NICK JR
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/48411?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="Canada(94)",NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Paramount HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1130?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada(94)",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada(94)",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Canada(94)",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Canada(94)",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Canada(94)",QVTV
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",RBA TV
+http://mini-main.site:8080/i3/LyKP9AmYws/1497?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",RCI
+http://mini-main.site:8080/i3/LyKP9AmYws/2672?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",RECORD
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54116?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",REDE TV  HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1192?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",REDE VIDA  HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1193?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",SBT HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1194?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="Canada(94)",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Sony Channel HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1131?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Syfy HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1132?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",TNT
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54125?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",TOONCAST
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/54140?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",TSN 1
+http://37723998.to:2052/dale1/1234/21782?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",TSN 3
+http://37723998.to:2052/dale1/1234/21784?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",TV Assembl
+http://mini-main.site:8080/i3/LyKP9AmYws/1502?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="Canada(94)",Tamil Vision International,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Canada(94)",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Canada(94)",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Tcm HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1133?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="Canada(94)",Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada(94)",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Tnt HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1134?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Tnt Series HD
+http://latinoamericatv.vip:3334/Yan/Yan123/1135?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Canada(94)",Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada(94)",Universal Channel SD
+http://latinoamericatv.vip:3334/Yan/Yan123/1136?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="Chile(21)",Long term Chile IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",24 HORAS (p)
+http://latinoamericatv.vip:3334/Kaka/Kaka/211?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="Chile(21)",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="Chile(21)",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",CANAL 13 (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/209?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",CANAL 13 HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/210?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",CHILEVISION  FHD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/207?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",CHILEVISION (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/208?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/zypeHFL.jpg" group-title="Chile(21)",Campus TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Chile(21)",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",LA RED (w)
+http://latinoamericatv.vip:3334/Kaka/Kaka/202?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",MEGA FHD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/204?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",MEGA HD (A)
+http://latinoamericatv.vip:3334/Kaka/Kaka/206?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",MEGA HD (P)
+http://latinoamericatv.vip:3334/Kaka/Kaka/205?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Chile(21)",TV5 Linares
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Chile(21)",TV5 Linares
+https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",TVN HD (W)
+http://latinoamericatv.vip:3334/Kaka/Kaka/203?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Chile(21)",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Chile(21)",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Chile(21)",UESTV
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/897eGEd.png" group-title="Chile(21)",VC ONLINE HD
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile(21)",Wow (El Salvador),WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-5G0QkrZhZ5w/YFjQnMbGSgI/AAAAAAAAAC0/EJHxp_mN56EdbGQwdTsI4C5WY3l82cptQCMICGAYYCw/" group-title="China(24)",Long term China IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="China(24)",ANTV HD,越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN;IN" tvg-logo="" group-title="China(24)",APB,印度APB
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="China(24)",CCTV 4,CN | CCTV 4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="China(24)",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="China(24)",CCTV-11,CCTV中国中央电视台-11 戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-11戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="China(24)",CCTV-12,CCTV中国中央电视台-12 社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-12社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="China(24)",CCTV-13,CCTV中国中央电视台-13 新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="China(24)",CCTV-13 (Opt-2)
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-13新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="China(24)",CCTV-14,CCTV中国中央电视台-14 少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-14少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="China(24)",CCTV-15,CCTV中国中央电视台-15 音乐
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China(24)",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-15音乐
+http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="China(24)",CCTV-1HD,CCTV中国中央电视台-1 综合
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-1综合HD
+http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="China(24)",CCTV-1高清,CCTV中国中央电视台-1 综合
+http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China(24)",CCTV-2,CCTV中国中央电视台-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="China(24)",CCTV-2财经,CCTV中国中央电视台-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="China(24)",CCTV-3HD,CCTV中国中央电视台-3 综艺
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China(24)",CCTV-3综艺HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8?checkedby:zaltv.co
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" group-title="China(24)",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8?checkedby:zaltv.co
